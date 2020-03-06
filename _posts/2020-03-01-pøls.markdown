@@ -1,10 +1,10 @@
-title: "meditations on modernity"
+title: "meditations on 34modernity"
 layout: gallery
 date: 2019-03-12 17:00
-image: /assets/gallery_images/head_tails_1.jpg
+image: /assets/gallery_images/aesthetics_2.jpg
 headerImage: false
 gallery: true
-galleryTitle: "meditations on modernity"
+galleryTitle: "meditations on 34modernity"
 hidden: true # don't count this post in blog pagination
 description: ""
 category: project
