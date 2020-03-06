@@ -1,7 +1,7 @@
 # how to
 
+here is a howto especially for u, yo
 
-## how to delete content
 
 ## general how to do changes
 
@@ -30,11 +30,14 @@
 
 ## How to create content
 
+
+**FIRST YOU...**
+
 * prepare pictures for upload
 * prepare descriptions for images and titles
 * prepare theme title
 
-### upload image files
+### 1. upload image files
 
 **see above for how to upload file**
 
