@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<header class='gallery-view'>
+    {% for post in site.posts %}
+        {% if post.gallery %}
+
+            <div class="theme-image">
+                <a href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+
+                <span class="theme-type">{{ post.title }}</span>
+                <img src="{{ post.image }}" alt=""></a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% include header.html %}
+
+<header class='gallery-view'>
+    {% for post in site.posts %}
+        {% if post.galleryTitle == page.title and post.gallery!=true %}
+            <div class="gallery-image">
+                <img src="{{ post.image }}" alt="">
+                <span>{{ post.description }}</span>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>

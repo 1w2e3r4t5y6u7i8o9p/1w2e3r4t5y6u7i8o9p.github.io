@@ -1,0 +1,18 @@
+
+<header class="header">
+    {% if page.galleryTitle %}
+    <div class="gallery-title">{{ page.galleryTitle }}</div>  
+    {% endif %}
+    <div class="header-buttons">
+        <div class="back-to-themes-button">
+            {% if page.galleryTitle %}
+            <a target="_self" href="/">
+            <img src="/assets/images/gallery_back.png" alt=""></a>
+            {% endif %}
+        </div>
+        <div class="contact-button"><a target="_blank" href="mailto:lol@cat.com">contact</a>
+        </div>
+    </div>
+
+
+</header>
