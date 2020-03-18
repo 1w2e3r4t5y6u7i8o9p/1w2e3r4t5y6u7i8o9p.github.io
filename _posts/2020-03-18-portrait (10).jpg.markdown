@@ -1,0 +1,13 @@
+---
+title: "portrait # 10"
+layout: default
+date: 2019-02-08 22:10
+image: /assets/gallery_images/portrait (10).jpg
+headerImage: false
+projects: false
+galleryTitle: "it's all fun and games if you bust your brains"
+hidden: true # don't count this post in blog pagination
+description: "2020 oil 21x30"
+category: project
+externalLink: false
+---
